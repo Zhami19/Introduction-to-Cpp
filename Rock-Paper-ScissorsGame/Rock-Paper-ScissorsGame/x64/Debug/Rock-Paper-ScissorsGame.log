@@ -1,0 +1,3 @@
+﻿  Rock-Paper-ScissorsGame.cpp
+C:\Users\zhama\Documents\Intro to C++\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame.cpp(67,23): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rock-Paper-ScissorsGame.vcxproj -> C:\Users\zhama\Documents\Intro to C++\Rock-Paper-ScissorsGame\x64\Debug\Rock-Paper-ScissorsGame.exe

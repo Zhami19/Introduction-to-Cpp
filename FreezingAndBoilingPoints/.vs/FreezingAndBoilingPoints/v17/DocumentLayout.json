@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\FreezingAndBoilingPoints\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451DE8FC-3119-4E99-A39F-1B1D9420460B}|FreezingAndBoilingPoints\\FreezingAndBoilingPoints.vcxproj|C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{451DE8FC-3119-4E99-A39F-1B1D9420460B}|FreezingAndBoilingPoints\\FreezingAndBoilingPoints.vcxproj|solutionrelative:FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreezingAndBoilingPoints.cpp",
+              "DocumentMoniker": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp",
+              "RelativeDocumentMoniker": "FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp",
+              "ToolTip": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp",
+              "RelativeToolTip": "FreezingAndBoilingPoints\\FreezingAndBoilingPoints.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T15:40:13.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

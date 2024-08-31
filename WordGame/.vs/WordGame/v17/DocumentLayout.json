@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\WordGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA93249B-C424-4D19-8D31-4C91193EDC23}|WordGame\\WordGame.vcxproj|C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\WordGame\\WordGame\\WordGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA93249B-C424-4D19-8D31-4C91193EDC23}|WordGame\\WordGame.vcxproj|solutionrelative:WordGame\\WordGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordGame.cpp",
+              "DocumentMoniker": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\WordGame\\WordGame\\WordGame.cpp",
+              "RelativeDocumentMoniker": "WordGame\\WordGame.cpp",
+              "ToolTip": "C:\\Users\\zhama\\Documents\\Intro to C\u002B\u002B\\WordGame\\WordGame\\WordGame.cpp",
+              "RelativeToolTip": "WordGame\\WordGame.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T16:06:24.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

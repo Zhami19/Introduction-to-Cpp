@@ -1,0 +1,3 @@
+﻿  OverloadedHospital.cpp
+C:\Users\zhama\Documents\Intro to C++\OverloadedHospital\OverloadedHospital\OverloadedHospital.cpp(94,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OverloadedHospital.vcxproj -> C:\Users\zhama\Documents\Intro to C++\OverloadedHospital\x64\Debug\OverloadedHospital.exe
